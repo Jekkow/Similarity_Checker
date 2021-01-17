@@ -7,10 +7,10 @@ This module compares strings on similarity and returns the name and a float perc
 
 # How to use:
     Create the Constructor:
-        `<SC = Similarity_Checker()>`
+        SC = Similarity_Checker()
 
     Set Values:
-        `<SC.Set_Difference = >`
+        SC.Set_Difference = 
             (Default = 1)
         SC.Length_Difference =
             (Default = 2)
