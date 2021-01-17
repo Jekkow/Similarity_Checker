@@ -1,5 +1,5 @@
 class Similarity_Checker:
-    #Similarity Checker V.0.3 | Made by Jekkow
+    #Similarity Checker V.0.0.3 | Made by Jekkow
     def __init__(self):
         #Set Variables
         self.Set_Difference = 1 #Public Variable
