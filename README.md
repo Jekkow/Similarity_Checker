@@ -18,4 +18,6 @@ This module compares strings on similarity and returns the name and a float perc
             (Default = 0.75)
 
     Use the Check method:
-        SC.Check("string that needs to be compared", ["List that contains the word(s) that the string will be compared with"])
+        SC.Check("string*", ["List*"])
+        String* = string that needs to be compared
+        List* =  List that contains the word(s) that the string will be compared with
