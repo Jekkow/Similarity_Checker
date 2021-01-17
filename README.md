@@ -1,5 +1,5 @@
 # Similarity_Checker
-A python similarity checker
+A Python similarity checker
 V.0.0.3 | Made by: Jekkow
 
 # What does this module:
