@@ -1,16 +1,19 @@
-# Similarity_Checker
+# SimilarityChecker
 A Python similarity checker
-V.0.0.3 | Made by: Jekkow
+V.0.0.9 | Made by: Jekkow
 
 # What does this module:
 This module compares strings on similarity and returns the name and a float percentage
 
 # How to use:
+	Import the module:
+	from similaritychecker import checker
+	
     Create the Constructor:
-        SC = Similarity_Checker()
+        SC = checker()
 
     Set Values:
-        SC.Set_Difference = 
+        SC.Set_Difference =
             (Default = 1)
         SC.Length_Difference =
             (Default = 2)
