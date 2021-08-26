@@ -1,6 +1,7 @@
 # SimilarityChecker
 A Python similarity checker
 V.0.0.9 | Made by: Jekkow
+PyPi: https://pypi.org/project/similaritychecker/
 
 # What does this module:
 This module compares strings on similarity and returns the name and a float percentage
